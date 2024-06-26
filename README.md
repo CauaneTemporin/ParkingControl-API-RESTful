@@ -7,3 +7,7 @@ Este projeto abrange a implementação de funcionalidades essenciais com os segu
 - **Spring Validation**: Aplicado para garantir a integridade e a validação dos dados processados pela API, assegurando que apenas dados corretos e completos sejam aceitos.
 
 A API de controle de estacionamento desenvolvida oferece uma solução completa e funcional, demonstrando boas práticas e explorando os principais recursos do ecossistema Spring.
+
+# Preparação Ambiente:
+- JDK 11
+- Spring Boot 2.6.3
