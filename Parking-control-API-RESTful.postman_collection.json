@@ -13,7 +13,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\": \"Lava Louça\",\r\n    \"value\": 6100.00\r\n}",
+					"raw": "{\r\n   \"parkingSpotNumber\": \"2058\",\r\n    \"licensePlateCar\": \"0368596\",\r\n    \"brandCar\": \"audi\",\r\n    \"modelCar\": \"q5\",\r\n    \"colorCar\": \"black piano\",\r\n    \"responsibleName\": \"Carlos Daniel\",\r\n    \"apartment\": \"205\",\r\n    \"block\": \"B\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -49,7 +49,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\": \"Monitor Dell 27\",\r\n    \"value\": 4200.00\r\n}",
+					"raw": "{\r\n   \"parkingSpotNumber\": \"2058\",\r\n    \"licensePlateCar\": \"0368596\",\r\n    \"brandCar\": \"audi\",\r\n    \"modelCar\": \"q5\",\r\n    \"colorCar\": \"black piano\",\r\n    \"responsibleName\": \"Carlos Daniel\",\r\n    \"apartment\": \"205\",\r\n    \"block\": \"B\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
